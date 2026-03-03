@@ -1,0 +1,17 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/api/instances/[id]/route": "app/api/instances/[id]/route.js",
+  "/api/instances/[id]/start/route": "app/api/instances/[id]/start/route.js",
+  "/api/instances/[id]/status/route": "app/api/instances/[id]/status/route.js",
+  "/api/instances/[id]/stop/route": "app/api/instances/[id]/stop/route.js",
+  "/api/instances/route": "app/api/instances/route.js",
+  "/api/launch/route": "app/api/launch/route.js",
+  "/chat/page": "app/chat/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/login/page": "app/login/page.js",
+  "/page": "app/page.js",
+  "/settings/page": "app/settings/page.js"
+}

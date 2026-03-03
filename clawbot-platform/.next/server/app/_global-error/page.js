@@ -1,0 +1,11 @@
+var R=require("../../chunks/ssr/[turbopack]_runtime.js")("server/app/_global-error/page.js")
+R.c("server/chunks/ssr/[root-of-the-server]__21962f85._.js")
+R.c("server/chunks/ssr/openclaw_clawbot-platform_6c089af0._.js")
+R.c("server/chunks/ssr/be134_next_dist_38383d64._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__f8583219._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__c0360671._.js")
+R.c("server/chunks/ssr/be134_next_dist_cff441c8._.js")
+R.c("server/chunks/ssr/openclaw_clawbot-platform_src_app_44fbda25._.js")
+R.c("server/chunks/ssr/a9ceb_clawbot-platform__next-internal_server_app__global-error_page_actions_a02c173f.js")
+R.m(16112)
+module.exports=R.m(16112).exports

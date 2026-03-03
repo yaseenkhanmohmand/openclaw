@@ -1,0 +1,3 @@
+module.exports=[34658,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(82513);a.n(d("[project]/openclaw/clawbot-platform/node_modules/next/dist/client/components/builtin/global-error.js <module evaluation>"))},26068,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(82513);a.n(d("[project]/openclaw/clawbot-platform/node_modules/next/dist/client/components/builtin/global-error.js"))},8385,a=>{"use strict";a.i(34658);var b=a.i(26068);a.n(b)}];
+
+//# sourceMappingURL=be134_next_dist_client_components_builtin_global-error_49405457.js.map

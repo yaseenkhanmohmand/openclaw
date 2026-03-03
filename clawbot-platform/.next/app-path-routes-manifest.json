@@ -1,0 +1,17 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/auth/[...nextauth]/route": "/api/auth/[...nextauth]",
+  "/api/instances/[id]/route": "/api/instances/[id]",
+  "/api/instances/[id]/start/route": "/api/instances/[id]/start",
+  "/api/instances/[id]/status/route": "/api/instances/[id]/status",
+  "/api/instances/[id]/stop/route": "/api/instances/[id]/stop",
+  "/api/instances/route": "/api/instances",
+  "/api/launch/route": "/api/launch",
+  "/chat/page": "/chat",
+  "/dashboard/page": "/dashboard",
+  "/favicon.ico/route": "/favicon.ico",
+  "/login/page": "/login",
+  "/page": "/",
+  "/settings/page": "/settings"
+}

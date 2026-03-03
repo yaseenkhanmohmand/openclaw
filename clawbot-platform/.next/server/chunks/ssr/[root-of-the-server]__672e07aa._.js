@@ -1,0 +1,3 @@
+module.exports=[93695,(a,b,c)=>{b.exports=a.x("next/dist/shared/lib/no-fallback-error.external.js",()=>require("next/dist/shared/lib/no-fallback-error.external.js"))},15312,a=>{a.n(a.i(7241))},21690,a=>{a.n(a.i(87737))},29679,a=>{a.n(a.i(35840))},98395,a=>{a.n(a.i(65163))},51814,a=>{a.n(a.i(8385))},34743,a=>{"use strict";var b=a.i(72905);function c(){return(0,b.jsx)("div",{className:"flex min-h-screen items-center justify-center",children:(0,b.jsxs)("main",{className:"flex flex-col items-center gap-6 p-8",children:[(0,b.jsx)("h1",{className:"text-3xl font-bold",children:"Sign In"}),(0,b.jsx)("p",{className:"text-gray-600",children:"Sign in to manage your ClawBot instance"})]})})}a.s(["default",()=>c])}];
+
+//# sourceMappingURL=%5Broot-of-the-server%5D__672e07aa._.js.map
